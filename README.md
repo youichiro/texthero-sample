@@ -38,8 +38,10 @@ livedoorニュースコーパスを取得する
 $ wget https://gist.githubusercontent.com/nxdataka/48a27b2e1c3f029e7f25e66dba4b6dde/raw/75b56c34869c6b290cdb54a0925f34baeace021a/ldn2csv.py
 $ python ldn2csv.py -o data/livedoornews.csv
 ```
+https://gist.github.com/nxdataka/48a27b2e1c3f029e7f25e66dba4b6dde
 
-notebookを開く
+
+[notebook](https://github.com/youichiro/texthero-sample/blob/main/notebooks/texthero.ipynb)を開く
 
 ```bash
 $ jupyter notebook notebooks/texthero.ipynb
