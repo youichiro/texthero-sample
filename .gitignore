@@ -1,0 +1,10 @@
+.DS_Store
+.python-version
+ldn2csv.py
+.vscode/
+
+data/*
+fonts/*
+dicts/*
+
+.gitkeep
