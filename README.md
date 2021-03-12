@@ -46,3 +46,9 @@ notebookを開く
 ```bash
 $ jupyter notebook notebooks/texthero.ipynb
 ```
+
+
+## 参考
+- [texthero](https://github.com/jbesomi/texthero)
+- [テキスト前処理と可視化が楽チンな『Texthero』使ってみた](https://qiita.com/h_yuma/items/c055c2fa801d0d60e63e)
+- [textheroを使ってテキストデータを可視化する](https://qiita.com/youichiro/items/165d4272d8eb958f4bd5)

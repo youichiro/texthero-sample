@@ -6,5 +6,7 @@ ldn2csv.py
 data/*
 fonts/*
 dicts/*
+notebooks/*
 
 !.gitkeep
+!notebooks/texthero.ipynb
